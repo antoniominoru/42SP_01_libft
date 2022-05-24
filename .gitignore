@@ -1,5 +1,3 @@
-/test_munit/
 *.o
 *.a
 ./a.out
-/01_libft_tester/
